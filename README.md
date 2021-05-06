@@ -1,6 +1,6 @@
 # RusTranslate.STSmod.IronCladRager
 
-# Оригинальный мод https://steamcommunity.com/sharedfiles/filedetails/?id=1822473361
+Оригинальный мод https://steamcommunity.com/sharedfiles/filedetails/?id=1822473361
 
 ### Инструкция:
 
