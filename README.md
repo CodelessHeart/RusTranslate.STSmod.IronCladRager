@@ -1,4 +1,4 @@
-# RusTranslate.STSmod.IronCladRager
+# TranslatedRus.SlayTheSpire.IronCladRager
 
 Оригинальный мод https://steamcommunity.com/sharedfiles/filedetails/?id=1822473361
 
